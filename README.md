@@ -3,9 +3,9 @@ A model that manages your trash efficiently, freeing you to focus on other prior
 With this model you don't have to worry about separating it into blue (recyclable), green (biodegradable), black (non-recyclable), red (hazardous), yellow (plastic), and white (glass).
 
 # Model build
-The dataset was taken from Kaggle. The dataset was sorted per the required format for the model.
+-The dataset was taken from Kaggle. The dataset was sorted per the required format for the model.
 Link to dataset: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
-This model is built using YOLOv8, a state-of-the-art object detection algorithm known for its speed and accuracy. YOLOv8 is trained on a diverse dataset of waste images categorized into various types, such as recyclable, biodegradable, non-recyclable, hazardous, plastic, and glass. It leverages deep learning techniques to identify and classify trash items in real time, enabling automatic sorting based on their category. This ensures precise segregation, reducing human effort and enhancing waste management efficiency.
+-This model is built using YOLOv8, a state-of-the-art object detection algorithm known for its speed and accuracy. YOLOv8 is trained on a diverse dataset of waste images categorized into various types, such as recyclable, biodegradable, non-recyclable, hazardous, plastic, and glass. It leverages deep learning techniques to identify and classify trash items in real time, enabling automatic sorting based on their category. This ensures precise segregation, reducing human effort and enhancing waste management efficiency.
 
 # Model Results
 The image presented below has the actual labels of the objects:
